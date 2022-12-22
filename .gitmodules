@@ -1,3 +1,6 @@
 [submodule "temporal-helm-chart"]
 	path = temporal-helm-chart
 	url = git@github.com:temporalio/helm-charts.git
+[submodule "dotfile"]
+	path = dotfile
+	url = git@github.com:gingercat-maki/dotfile.git
