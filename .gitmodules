@@ -4,3 +4,6 @@
 [submodule "dotfile"]
 	path = dotfile
 	url = git@github.com:gingercat-maki/dotfile.git
+[submodule "temporal-helm-maki"]
+	path = temporal-helm-maki
+	url = git@github.com:temporalio/helm-charts.git
